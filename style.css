@@ -65,10 +65,10 @@ nav {
     font-size: 20px;
     align-items: center;
     display: flex;
-    padding: 5px 5px 5px 5px;
+    margin-left: 1vw;
 }
 .postText {
-    padding: 30px;
+    margin-left: 2vw;
     font-size: 30px;
 }
 .comment1 {
@@ -80,5 +80,5 @@ nav {
     border: 4px gray;
 }
 .heart{
-    height: 5vh;
+    height: 4vh;
 }
